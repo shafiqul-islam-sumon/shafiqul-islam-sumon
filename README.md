@@ -52,7 +52,6 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 |-------------------------------------------|----------------------------------------------|
 | <img src="images/gradio.svg" width="64"/> | <img src="images/streamlit.svg" width="64"/> |
 
----
 
 ### 👁️ Computer Vision
 
@@ -70,7 +69,6 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 ![PointNet](https://img.shields.io/badge/PointNet-3D%20Point%20Cloud%20Model-red)
 ![SAM](https://img.shields.io/badge/SAM-Segment%20Anything%20Model-blue?logo=meta&logoColor=white)
 
----
 
 ### ⚙️ DevOps
 
@@ -82,7 +80,7 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 |------------------------------------------|----------------------------------------|----------------------------------------|
 | <img src="images/azure.svg" width="64"/> | <img src="images/gcp.svg" width="64"/> | <img src="images/aws.svg" width="64"/> |
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -90,7 +88,7 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 - 🔒 [**SecureDockerEnv**](https://github.com/shafiqul-islam-sumon/SecureDockerEnv): Secure Docker secrets handling for `.env` credentials.
 - 🧠 [**LLM Knowledge Extractor**](https://github.com/shafiqul-islam-sumon/LLM-Knowledge-Extractor): Extract Q&A from messy PDFs using LangChain + Azure OpenAI.
 
----
+
 
 ## 📄 Publications
 
@@ -106,7 +104,6 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
   *ABC | Activity and Behavior Computing (ABC) (2020)*  
   
 
----
 
 ## ✍️ Blog & Portfolio
 
@@ -118,7 +115,7 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
   </a>
 </p>
 
----
+
 
 ## 📫 Let's Connect
 
@@ -140,17 +137,17 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiqul-islam-sumon&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
     </td>
-    <td style="width: 40px;"></td> <!-- This is the horizontal space -->
-    <td>
+    <td style="width: 40px; border: none;"></td> <!-- This is the horizontal space -->
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=shafiqul-islam-sumon&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
   </tr>
