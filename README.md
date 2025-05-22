@@ -121,19 +121,19 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 
 <p align="left">
   <a href="mailto:mdshafiqul.islam603@gmail.com" target="_blank">
-    <img src="images/gmail.svg" width="48" />
+    <img src="images/gmail.svg" width="48" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/shafiqul-islam-sumon" target="blank">
-    <img src="images/linkedin.svg" width="48" />
+  <a href="https://linkedin.com/in/shafiqul-islam-sumon" target="_blank">
+    <img src="images/linkedin.svg" width="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kaggle.com/shafiqulislam603" target="blank">
-    <img src="images/kaggle.svg" width="48" />
+  <a href="https://kaggle.com/shafiqulislam603" target="_blank">
+    <img src="images/kaggle.svg" width="48" alt="Kaggle" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/shafiqul" target="blank">
-    <img src="images/leetcode.svg" width="48" />
+  <a href="https://www.leetcode.com/shafiqul" target="_blank">
+    <img src="images/leetcode.svg" width="48" alt="LeetCode" />
   </a>
 </p>
 
