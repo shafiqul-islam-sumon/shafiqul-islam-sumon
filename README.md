@@ -121,19 +121,19 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 
 <p align="left">
   <a href="mailto:mdshafiqul.islam603@gmail.com" target="_blank">
-    <img align="center" src="images/gmail.svg" height="48" width="48" />
+    <img src="images/gmail.svg" width="48" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/shafiqul-islam-sumon" target="blank">
-    <img align="center" src="images/linkedin.svg" height="48" width="48" />
+    <img src="images/linkedin.svg" width="48" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kaggle.com/shafiqulislam603" target="blank">
-    <img align="center" src="images/kaggle.svg" height="48" width="48" />
+    <img src="images/kaggle.svg" width="48" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/shafiqul" target="blank">
-    <img align="center" src="images/leetcode.svg" height="48" width="48" />
+    <img src="images/leetcode.svg" width="48" />
   </a>
 </p>
 
@@ -141,13 +141,13 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 
 ## 📊 GitHub Stats
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
+<table>
+  <tr>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiqul-islam-sumon&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
     </td>
-    <td style="width: 40px; border: none;"></td> <!-- This is the horizontal space -->
-    <td style="border: none;">
+    <td style="width: 40px;"></td> <!-- This is the horizontal space -->
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=shafiqul-islam-sumon&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
   </tr>
