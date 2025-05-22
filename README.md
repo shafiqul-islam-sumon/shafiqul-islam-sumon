@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="images/ai.jpg" alt="AI" width="400"/>
+  <img src="images/ai.jpg" alt="AI" width="1920"/>
 </div>
 
-<h1 align="center">MD SHAFIQUL ISLAM</h1>
+<h2 align="center">MD SHAFIQUL ISLAM</h2>
 <h3 align="center">AI Engineer | Japan 🇯🇵</h3>
 
 I'm an **AI Engineer based in Japan**, specializing in the development of **real-world AI applications** using **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)** systems, **Python**, and **Point Cloud Processing**. My work spans a diverse range of solutions—from intelligent document Q&A systems to automated 3D model generation pipelines. I’m currently focused on building **end-to-end GenAI applications**, leveraging tools like **ChatGPT**, **LangChain**, and custom-built components to deliver scalable, production-ready solutions.
 
 
----
 
 ## 💼 What I Do
 
@@ -18,7 +17,6 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 - 🧱 Process and analyze **3D point cloud data** for industrial applications (e.g., stockpile volume estimation)
 - 🔒 Secure deployments with **Docker**, `.env` handling, and **Azure**
 
----
 
 ## 🔧 Tech Stack
 
@@ -29,7 +27,6 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 |-------------------------------------------|-----------------------------------------|--------------------------------------------|-----------------------------------------------|
 | <img src="images/python.svg" width="64"/> | <img src="images/java.svg" width="64"/> | <img src="images/pytorch.svg" width="64"/> | <img src="images/tensorflow.svg" width="64"/> |
 
----
 
 
 ### 🧠 Large Language Model (LLM)
@@ -56,7 +53,7 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 |-------------------------------------------|----------------------------------------------|
 | <img src="images/gradio.svg" width="64"/> | <img src="images/streamlit.svg" width="64"/> |
 
----
+
 
 ### 👁️ Computer Vision
 
@@ -74,7 +71,7 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 ![PointNet](https://img.shields.io/badge/PointNet-3D%20Point%20Cloud%20Model-red)
 ![SAM](https://img.shields.io/badge/SAM-Segment%20Anything%20Model-blue?logo=meta&logoColor=white)
 
----
+
 
 ### ⚙️ DevOps
 
@@ -86,7 +83,7 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 |------------------------------------------|----------------------------------------|----------------------------------------|
 | <img src="images/azure.svg" width="64"/> | <img src="images/gcp.svg" width="64"/> | <img src="images/aws.svg" width="64"/> |
 
----
+
 
 ### 🚀 Featured Projects
 
@@ -94,7 +91,7 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
 - 🔒 [**SecureDockerEnv**](https://github.com/shafiqul-islam-sumon/SecureDockerEnv): Secure Docker secrets handling for `.env` credentials.
 - 🧠 [**LLM Knowledge Extractor**](https://github.com/shafiqul-islam-sumon/LLM-Knowledge-Extractor): Extract Q&A from messy PDFs using LangChain + Azure OpenAI.
 
----
+
 
 ### 📄 Publications
 
@@ -110,7 +107,7 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
   *ABC | Activity and Behavior Computing (ABC) (2020)*  
   
 
----
+
 
 ### ✍️ Blog & Portfolio
 
@@ -122,7 +119,7 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
   </a>
 </p>
 
----
+
 
 ### 📫 Let's Connect
 
@@ -144,7 +141,7 @@ I'm an **AI Engineer based in Japan**, specializing in the development of **real
   </a>
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
